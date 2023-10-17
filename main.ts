@@ -1,7 +1,7 @@
 basic.showIcon(IconNames.Heart)
-basic.forever(function () {
-    basic.showString("Hello!")
+basic.forever(function on_forever() {
+    basic.showString("Hello ozgur !")
 })
-basic.forever(function () {
+basic.forever(function on_forever2() {
     basic.showNumber(4)
 })
